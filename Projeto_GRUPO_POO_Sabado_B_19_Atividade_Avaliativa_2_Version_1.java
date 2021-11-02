@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jpfar
+ * @author jotape
  */
 public class Projeto_GRUPO_POO_Sabado_B_19_Atividade_Avaliativa_2_Version_1 {
 
